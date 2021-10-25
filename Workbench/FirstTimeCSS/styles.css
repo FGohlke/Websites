@@ -1,0 +1,24 @@
+span{
+  color: red;
+}
+p{
+  color: green;
+}
+body{
+  background-color: transparent;  
+}
+#zweiterAbsatz{
+  color: blue;
+}
+.test{
+  color: red;
+}
+.hintergrund{
+  background-color: transparent;
+}
+#image{
+  background-image: url(Serverraum.jpg);
+  background-repeat: no-repeat;
+  background-position:  center top;
+  background-attachment: fixed;
+}
